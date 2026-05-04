@@ -1,16 +1,17 @@
-## Hi there 👋
+# AI & Backend Engineer 🚀
 
-<!--
-**khaled24ao/khaled24ao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer focused on building production-style AI systems and backend APIs.
 
-Here are some ideas to get you started:
+## 💡 Focus Areas
+- Backend development using Python & FastAPI
+- AI integration with LLM APIs (Groq, Gemini)
+- Building automation tools and scalable APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+Python | FastAPI | REST APIs | AI APIs | Git | GitHub
+
+## 🚀 Projects
+Check pinned repositories for my main work 👇
+
+## 📫 Open to:
+Freelance | Internships | Backend / AI opportunities
