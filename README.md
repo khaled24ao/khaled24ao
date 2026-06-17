@@ -268,7 +268,7 @@ I'm always interested in:
 | 📧 **Email** | [khaledmomo757@gmail.com](mailto:khaledmomo757@gmail.com) |
 | 💼 **LinkedIn** | [khaled-mohamed-7a0242317](https://linkedin.com/in/khaled-mohamed-7a0242317) |
 | 🐙 **GitHub** | [khaled24ao](https://github.com/khaled24ao) |
-| 🌐 **Portfolio** | [galaxy-portfolio-mu.vercel.app](https://galaxy-portfolio-mu.vercel.app) |
+| 🌐 **Portfolio** | [galaxy-portfolio-mu.vercel.app](https://portfolio-one-pied-pfxvlw0rly.vercel.app/) |
 
 </div>
 
